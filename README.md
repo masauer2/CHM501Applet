@@ -1,2 +1,6 @@
 # CHM501Applet
-Automatically Take Notes and Generate Pretty Websites
+
+Probing interest for this project. If you are interested please email me.
+### OAuth2 Instructions
+
+### Usage
