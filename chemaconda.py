@@ -52,7 +52,7 @@ def get_today_events(tstart):
             if creds and creds.expired and creds.refresh_token:
                 creds.refresh(Request())  # refresh silently
             else:
-                flow = InstalledAppFlow.from_client_secrets_file('creds2/credentials.json', SCOPES)
+                flow = InstalledAppFlow.from_client_secrets_file('creds/credentials.json', SCOPES)
                 creds = flow.run_local_server(port=0)
 
             # Save the credentials for next run
