@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: CHM501Applet
+Version: 0.1.0
+Summary: A PyQt5 app for attaching notes to Google Calendar events with LaTeX and HTML parsing
+Requires-Python: >=3.8
+Requires-Dist: google-auth>=2.0.0
+Requires-Dist: google-auth-oauthlib>=0.5.0
+Requires-Dist: google-api-python-client>=2.0.0
+Requires-Dist: pylatexenc>=2.10
+Requires-Dist: beautifulsoup4>=4.11.0
+Requires-Dist: PyQt5>=5.15.0
