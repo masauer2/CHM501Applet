@@ -13,7 +13,7 @@ from PyQt5.QtWidgets import (
 from PyQt5.QtGui import QIcon
 import datetime
 from googleapiclient.discovery import build
-from quickstart import SCOPES
+from CHM501Applet.quickstart import SCOPES
 
 # Replace with your credentials file path
 CREDENTIALS_FILE = 'creds.json'

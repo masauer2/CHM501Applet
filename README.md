@@ -1,4 +1,4 @@
-# CHM501Applet
+# CHM501Applet (Chemaconda)
 Probing interest for this project. If you are interested please email me (masauer2@asu.edu).
 
 ### OAuth2 Instructions
@@ -11,3 +11,7 @@ Please contact me for a copy of the credentials file.
 conda env create -f environment.yml
 python3 chemaconda.py
 ```
+
+## App Visualization
+
+![alt text](img/usage.png)
